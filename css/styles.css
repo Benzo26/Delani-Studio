@@ -24,3 +24,11 @@
 #about-us{
     text-transform: uppercase;
   }
+#services{
+    width: 100%;
+    text-align: center;
+    background-image: url(../images/backgrounds/s_image.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: whitesmoke;
+  }
