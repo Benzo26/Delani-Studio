@@ -7,3 +7,10 @@
     color: whitesmoke;
     text-align: center;
 }
+#mouse {
+    animation: mouse 3s infinite;
+    margin-top: 3%;
+}
+#logo {
+    margin-top: 14%;
+}
