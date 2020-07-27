@@ -40,3 +40,14 @@
   text-transform: uppercase;
   margin-top: 2%;
 }
+#contact-us{
+    background-image: url(../images/backgrounds/c_image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: whitesmoke;
+    padding: 20px;
+    width: 100%;
+  }
+  #contact-us h2{
+    margin: 30px auto;
+  }
