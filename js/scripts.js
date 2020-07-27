@@ -8,6 +8,12 @@ $(document).ready(function(){
     });
 
     $("#products,#hide-products").click(function(){
-        $("#hide-products").toggle();
+    $("#hide-products").toggle();
+    });
+    
+    $('.image-frame').hover(function(){
+    $('.image-caption',this).slideToggle('slow');
+    }, function(){
+        $('.image-caption',this).slideToggle('slow');
     });
 })
