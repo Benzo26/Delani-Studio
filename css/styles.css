@@ -32,3 +32,11 @@
     background-repeat: no-repeat;
     color: whitesmoke;
   }
+}
+#what-do{
+  height: 250px;
+}
+#what-do>h2 {
+  text-transform: uppercase;
+  margin-top: 2%;
+}
