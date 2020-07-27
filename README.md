@@ -6,7 +6,7 @@ This is a delani studio website. It describes some of their work, how they work 
 This projects details the delani studio website, their previous works and how to get in touch with them in case you're interested in their services.
 
 ## Link to live website
-* https://github.com/Benzo26/Delani-Studio.git/
+* https://benzo26.github.io/Delani-Studio/
 
 ## Set-up and installation
 * Fork the project
