@@ -1,3 +1,21 @@
+.box-model {
+    margin-top: auto;
+    margin-bottom: initial;
+    margin-left: 70px;
+    margin-right: 70px;
+
+    padding-top: initial;
+    padding-bottom: initial;
+    padding-left: 120px;
+    padding-bottom: 120px;
+
+    border-top: initial;
+    border-bottom: initial;
+    border-right: 70px;
+    border-left: 70px;
+}
+
+
 .landing-page {
     background-image: url(../images/backgrounds/h_img.jpg);
     background-size: cover;
@@ -34,11 +52,11 @@
   }
 }
 #what-do{
-  height: 250px;
+    height: 250px;
 }
 #what-do>h2 {
-  text-transform: uppercase;
-  margin-top: 2%;
+    text-transform: uppercase;
+    margin-top: 2%;
 }
 #contact-us{
     background-image: url(../images/backgrounds/c_image.jpg);
@@ -51,3 +69,8 @@
   #contact-us h2{
     margin: 30px auto;
   }
+.forms{
+    width:40%;
+    margin: auto;
+    margin-bottom: 120px;
+ }
